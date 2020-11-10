@@ -1,9 +1,12 @@
 .header{
-    background: rgba(255, 153, 0);
-    padding: 15px;
+    background: #3366ff;
+    padding: 40px;
     text-align: center;
-    color: rgb(0, 0, 0);
+    color: white;
     font-size: 25px;
+}
+.header h1{
+    font-size: 45px;
 }
 body{
     margin: 0;
@@ -22,4 +25,7 @@ body{
     text-align: center;
     padding: 14px 20px;
     text-decoration: none;
+}
+.img{
+    height: 200px;
 }
