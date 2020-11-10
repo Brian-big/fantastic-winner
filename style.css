@@ -27,5 +27,10 @@ body{
     text-decoration: none;
 }
 .img{
-    height: 200px;
+
+    background-color: #3366ff27;
+    padding: 20px;
+}
+.side{
+    align-items: stretch;
 }
