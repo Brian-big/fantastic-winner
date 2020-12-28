@@ -1,7 +1,6 @@
 .header{
-    background: url("images/kevin-ku-w7ZyuGYNpRQ-unsplash.jpg");
     background-repeat: round;
-    background-color: #3366ff;
+    background-color: #515151;
     padding: 40px;
     text-align: center;
     color: white;
@@ -10,17 +9,22 @@
 }
 .header h1{
     font-size: 45px;
+    color: white;
 }
 .header:hover{
-    background: url("images/roozbeh-eslami-YlVjrBkfXt8-unsplash.jpg");
-    background-color: #3366ff;
+    background-color:#333
 }
 body{
     margin: 0;
+    background-color: #333;
+    color: white;
+}
+h2{
+    color: white;
 }
 .navbar {
     overflow: hidden;
-    background-color: #333;
+    background-color: #515151;
     position: sticky;
     position: -webkit-sticky;
     top: 0; 
@@ -34,7 +38,6 @@ body{
     text-decoration: none;
 }
 .img{
-    background-color: #3366ff27;
     padding: 20px;
 }
 .side{
