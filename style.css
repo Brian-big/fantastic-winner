@@ -1,45 +1,10 @@
-.header{
-    background-repeat: round;
-    background-color: #515151;
-    padding: 40px;
-    text-align: center;
-    color: white;
-    font-size: 25px;
-    
+.text-bright {
+    color: #32a871;
 }
-.header h1{
-    font-size: 45px;
-    color: white;
+
+a {
+    color: #32a871;
 }
-.header:hover{
-    background-color:#333
-}
-body{
-    margin: 0;
-    background-color: #333;
-    color: white;
-}
-h2{
-    color: white;
-}
-.navbar {
-    overflow: hidden;
-    background-color: #515151;
-    position: sticky;
-    position: -webkit-sticky;
-    top: 0; 
-}
-.navbar a {
-    float: left;
-    display: block;
-    color: white;
-    text-align: center;
-    padding: 14px 20px;
-    text-decoration: none;
-}
-.img{
-    padding: 20px;
-}
-.side{
-    align-items: stretch;
+a:hover {
+    color: #32a871;
 }
